@@ -7,6 +7,6 @@
 ![landing-page-vturb](https://user-images.githubusercontent.com/58434465/147386944-6e5fe03d-4a80-427a-ab5f-1758483ae99d.gif)
 
 
-## Link do deploy
+## Link do deployment
 
 <a target="_blank" href = "https://landing-page-vt-urb3.vercel.app/">https://landing-page-vt-urb3.vercel.app/</a>
